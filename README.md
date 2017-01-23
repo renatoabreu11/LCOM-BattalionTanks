@@ -5,6 +5,8 @@ LCOM is a course given at FEUP in the second year of the Master in Informatics a
  
 ## Battalion Tanks
 
+[Project Info](https://github.com/renatoabreu11/LCOM-BattalionTanks/blob/master/Tanks/docs/Report.pdf)
+
 ## Gallery
 
 | [<img src="/res/MainMenu.png" width="256" heigth="256">](/res/MainMenu.png)                                                                   | [<img src="/res/SinglePlayer.gif" width="256" heigth="256">](/res/SinglePlayer.gif)                                                             | [<img src="/res/MultiPlayer.gif" width="256" heigth="256">](/res/MultiPlayer.gif) |
