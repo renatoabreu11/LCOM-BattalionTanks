@@ -3,17 +3,13 @@ Repository to host Computer Laboratory project.
 
 LCOM is a course given at FEUP in the second year of the Master in Informatics and Computing Engineering.
  
-## Goal
-
-## Features
-
-## Technologies
+## Battalion Tanks
 
 ## Gallery
 
-| [<img src="/res/Home.png" width="256" heigth="256">](/res/Home.png)                                                                   | [<img src="/res/Profile.png" width="256" heigth="256">](/res/Profile.png)                                                             | [<img src="/res/Search.png" width="256" heigth="256">](/res/Search.png) |
+| [<img src="/res/MainMenu.png" width="256" heigth="256">](/res/MainMenu.png)                                                                   | [<img src="/res/SinglePlayer.gif" width="256" heigth="256">](/res/SinglePlayer.gif)                                                             | [<img src="/res/MultiPlayer.gif" width="256" heigth="256">](/res/MultiPlayer.gif) |
 |:---:|:---:|:---:|
-| Home Page | User Profile | Restaurant Search |
+| Main Menu | Single Player | Multi Player |
 
 ## Team 
 [Miguel Alves](https://github.com/oindividuo)
