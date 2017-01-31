@@ -7,7 +7,7 @@ LCOM is a course given at FEUP in the second year of the Master in Informatics a
 
 The goal of this project was to develop a program/game that could demonstrate our proficiency on Hardware interface level programming, system-level programs and programming software tools. 
 
-As such, we choose to develop a game based on [Tank Battalion](https://en.wikipedia.org/wiki/Tank_Battalion). This allowed us to successfuly incorporate most peripherals studied throughout the semester and polish our knowledge about them.
+As such, we choose to develop a game based on [Tank Battalion](https://en.wikipedia.org/wiki/Tank_Battalion). This allowed us to successfully incorporate most peripherals studied throughout the semester and polish our knowledge about them.
 
 [Project Info](https://github.com/renatoabreu11/LCOM-BattalionTanks/blob/master/Tanks/docs/Report.pdf)
 
